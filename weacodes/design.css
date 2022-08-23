@@ -1,0 +1,71 @@
+body {
+  background-color: rgb(105, 225, 234);
+}
+
+.pictures {
+  display: block;
+  margin: 3% auto;
+  width: 55%;
+  border: 3px solid rgb(232, 240, 127);
+}
+
+.sunny {
+  width: 70%;
+  position: relative;
+  top: 5%;
+  right: 20%;
+}
+
+.box-one {
+  position: relative;
+  left: 60%;
+}
+
+h3 {
+  text-align: center;
+  font-family: "Anton", sans-serif;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.third-text,
+.second-text,
+.first {
+  font-family: "Patua One", cursive;
+  font-size: 18px;
+  margin: 5% 20% 0 20%;
+}
+
+.sky {
+  font-size: 50px;
+}
+.days {
+  max-width: fit-content;
+}
+
+h5 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+h6 {
+  max-width: 100%;
+  margin: 200px 0 0 120px;
+}
+
+.search-zone,
+.search-bone,
+.search-bore {
+  background-color: rgb(29, 5, 213);
+  border: 1px solid #885df1;
+  color: #885df1;
+}
+
+.created {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 18px;
+}
